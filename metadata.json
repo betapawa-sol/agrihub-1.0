@@ -1,0 +1,6 @@
+{
+  "name": "Betapawa AgriPower™ — Productive-Use Solar Infrastructure",
+  "description": "Betapawa AgriPower deploys solar-powered productive-use energy hubs combining cold storage, irrigation, and agro-processing for African farming communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
